@@ -1,2 +1,3 @@
-# Starting-Out-
-Starting out with github
+# Beginning Anew
+Beginning anew with github
+
